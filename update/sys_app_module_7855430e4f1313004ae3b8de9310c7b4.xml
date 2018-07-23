@@ -17,7 +17,7 @@
         <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_240351_innovate_innovate</name>
-        <order>300</order>
+        <order>102</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7855430e4f1313004ae3b8de9310c7b4</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Open</sys_name>
         <sys_overrides/>
         <sys_package display_value="innovate" source="x_240351_innovate">12b6d96537321300040cae7873990ea1</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="innovate">12b6d96537321300040cae7873990ea1</sys_scope>
         <sys_update_name>sys_app_module_7855430e4f1313004ae3b8de9310c7b4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-16 07:41:30</sys_updated_on>
+        <sys_updated_on>2018-07-23 07:15:06</sys_updated_on>
         <timeline_page/>
         <title>Open</title>
         <uncancelable>false</uncancelable>
